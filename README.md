@@ -11,7 +11,6 @@ Using historical stock price data of TCS (Tata Consultancy Services), the goal i
 ### Project Details
 
 #### Iris Classification
-
 ###### Objective: 
 To classify iris flowers into three species (Setosa, Versicolor, Virginica) based on four features: sepal length, sepal width, petal length, and petal width.
 ##### Dataset: 
@@ -22,7 +21,6 @@ Employed various machine learning algorithms such as decision trees, random fore
 Model performance was evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 #### TCS Stock Price Prediction
-
 ##### Objective: 
 To predict the future stock price of TCS based on historical stock price data and potentially other relevant features.
 ##### Dataset: 
@@ -31,6 +29,7 @@ Historical stock price data of TCS, which includes features such as opening pric
 Utilized time series forecasting techniques, possibly including autoregressive integrated moving average (ARIMA), long short-term memory (LSTM) networks, or other regression models.
 ##### Evaluation: 
 Model performance was assessed using metrics such as mean squared error (MSE), mean absolute error (MAE), and potentially others depending on the specific implementation.
+
 #### Usage
 
 Each project folder contains the necessary code, datasets, and documentation to reproduce the results. Detailed instructions on running the code and any dependencies required are provided within each project's README file.
